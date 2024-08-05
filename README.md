@@ -4,3 +4,5 @@ I have not updated this in a very long time. I think I will begin to work on thi
 
 Languages that are currently used are.. HTML, CSS, Javascript.
 Languages I am looking to expand and work here with.. C# .NET, React, Angular?
+
+Data Science will be included, by more sites to be published first 
