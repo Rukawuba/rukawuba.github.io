@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/html5up-dimension/assets"
+		},
+		{
+			"path": "../../../Desktop/html5up-dimension/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "rukawuba.github.io"
+	}
+}

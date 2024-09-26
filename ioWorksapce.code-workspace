@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "rukawuba.github.io",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rukawuba.github.io"
+	}
+}
