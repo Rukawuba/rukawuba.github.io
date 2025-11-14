@@ -1,8 +1,35 @@
-# rukawuba.github.io
-Rob Ukawuba Web Development Portfolio
-I have not updated this in a very long time. I think I will begin to work on this all over again. Let's see how we can work on some newer technologies. 
+# Rob Ukawuba — Portfolio Website
 
-Languages that are currently used are.. HTML, CSS, Javascript.
-Languages I am looking to expand and work here with.. C# .NET, React, Angular?
+Welcome to the repository for my personal website and digital portfolio.
 
-Data Science will be included, by more sites to be published first 
+This site represents everything I’m building at the intersection of **basketball, software engineering, and data science**. It's currently undergoing a full redesign to reflect the projects, technologies, and ventures I’m actively working on today.
+
+## 🚀 What This Site Showcases
+
+### **🧠 Software Engineering**
+- Modern web development  
+- React / Next.js  
+- API integration  
+- Full-stack prototypes  
+- Sports tech + basketball tools  
+
+### **📊 Data Science & Analytics**
+- Basketball analytics (NBA, EuroLeague, 3×3)  
+- Player development dashboards  
+- Machine learning and predictive modeling  
+- SQL, Python, data pipelines  
+- Visualizations and applied insights  
+
+### **🏀 Basketball Ventures**
+- **BGB (Brunswick Grassroots Basketball)** — player development, 3×3, training  
+- **Next Move Media** — storytelling + content strategy for athletes and trainers  
+- **OverSee** — an upcoming platform helping players research teams & clubs  
+
+This site will eventually connect all three.
+
+---
+
+## 🔧 Tech Stack (Current & Planned)
+
+### **Currently Building With**
+- **Next.js** (App
